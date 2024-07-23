@@ -1,7 +1,5 @@
 ## Hi my name is Samuel 👋
 
-### About Me:
-
 ### Languages:
 | Python | Java | C#
 |----------|----------|----------
